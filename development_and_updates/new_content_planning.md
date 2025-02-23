@@ -36,5 +36,3 @@
 - Regular feedback surveys
 - Beta testing programs
 - Community suggestion voting
-- Professional player consultation
-- Data-driven adjustments
