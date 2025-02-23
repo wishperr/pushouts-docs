@@ -34,5 +34,4 @@ A skill-based matchmaking system that ensures fair and engaging matches for all 
 - Team skill averaging
 - Party size matching
 - New player protection
-- Smurf detection
 - Regular MMR adjustments
